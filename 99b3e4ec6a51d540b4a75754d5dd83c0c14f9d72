@@ -1,0 +1,1 @@
+{"jobID":"a11d438e-cfb3-e849-5615-01698edcb1c0","spec":{"type":"policy","cause":{"Message":"","User":"Ozcan Ozkaya \u003cozcan.ozkaya@codification.io\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
