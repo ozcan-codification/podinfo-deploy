@@ -1,0 +1,1 @@
+{"jobID":"f334952d-cc2b-d9e0-2a6b-458c8069bc08","spec":{"type":"policy","cause":{"Message":"to change","User":"Ozcan Ozkaya \u003cozcan.ozkaya@codification.io\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"to change\"","locked_user":"Ozcan Ozkaya \u003cozcan.ozkaya@codification.io\u003e"}}}},"result":null}
